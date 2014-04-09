@@ -124,7 +124,7 @@ Matthew Wagerfield: [@mwagerfield][twitter]
 
 Licensed under [MIT](mit). Enjoy.
 
-[demo]: http://matthewwagerfield.github.com/ape/
+[demo]: http://wagerfield.github.io/axonometric-projection/
 [wiki]: http://en.wikipedia.org/wiki/Axonometric_projection
 [twitter]: http://twitter.com/mwagerfield
 [mit]: http://www.opensource.org/licenses/mit-license.php
